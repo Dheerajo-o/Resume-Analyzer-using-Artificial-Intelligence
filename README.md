@@ -24,7 +24,7 @@ Navigate to the project directory in your terminal.
 
 ### 2. Create a Virtual Environment (Recommended)
 ```bash
-python -m venv venv
+py -3.11 -m venv venv
 ```
 
 Activate the virtual environment:
